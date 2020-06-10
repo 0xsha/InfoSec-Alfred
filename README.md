@@ -33,7 +33,9 @@ After first run you can change the master name inside pennyworth.db
 # Screenshots: 
 
 ![screenshot](./assets/sc2.png)<br><br>
-![screenshot](./assets/sc3.png)
+![screenshot](./assets/sc3.png)<br><br>
+![screenshot](./assets/sc4.png)<br><br>
+
 
 
 # Demo:
